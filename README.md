@@ -8,9 +8,8 @@
 - `E`: Use character skill
 
 
-
-
-
+## Demo
+![Game](Gif/ShadersVsTower.gif)
 
 ## Collaborators
 - Lucas VOCANSON
